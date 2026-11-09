@@ -2,5 +2,5 @@
 - Mình đang học GitHub, Markdown, GitHub Pages
 - Dự án tiêu biểu: (Chưa có)
 - Liên hệ:
-+ Facebook: https://www.facebook.com/chytoki0611/
-+ Zalo: 0865999405
+https://www.facebook.com/chytoki0611/
+Zalo: 0865999405
